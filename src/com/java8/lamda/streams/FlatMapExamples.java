@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 
 /**
  *
- * @author José
+ * @author Susmit Sarkar
  */
 public class FlatMapExamples {
 
